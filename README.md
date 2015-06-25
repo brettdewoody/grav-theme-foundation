@@ -1,6 +1,6 @@
 # Foundation
 
-![Foundation](assets/screenshot1.png)
+![Foundation](screenshot.jpg)
 
 Foundation is a [Grav](http://getgrav.org) theme using Zurb's Foundation front-end framework.
 
