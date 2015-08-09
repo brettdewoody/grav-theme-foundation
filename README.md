@@ -33,7 +33,7 @@ To install the required plugins, from the root of your Grav install type:
 
 # Updating
 
-As development for the Foundation theme continues, new versions may become available that add additional features and functionality, improve compatibility with newer Grav releases, and generally provide a better user experience. Updating Antimatter is easy, and can be done through Grav's GPM system, as well as manually.
+As development for the Foundation theme continues, new versions may become available that add additional features and functionality, improve compatibility with newer Grav releases, and generally provide a better user experience. Updating Foundation is easy, and can be done through Grav's GPM system, as well as manually.
 
 ## GPM Update (Preferred)
 
